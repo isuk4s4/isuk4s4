@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Isuk4</h1>
 <h3 align="center">A crackhead developer from Sri Lanka <3</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isuk4s4" alt="isuk4s4" /></a> </p>
+<div align="center">
+  <img height="195" src="https://giffiles.alphacoders.com/244/24461.gif"  />
+</div>
 
 - 🌱 I’m currently learning **Python**
 
