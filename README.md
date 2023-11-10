@@ -28,13 +28,12 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
+<div align="center">
 
-### ✍️ Random Dev Quote
+###
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
+</div>
 ###
 
 <img align="right" height="150" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47wkr8jnfqxo27mg0e2jj8yy69qjhduwpn2cg931tg&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
