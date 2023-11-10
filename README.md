@@ -4,17 +4,4 @@
 <div align="center">
   <img height="195" src="https://giffiles.alphacoders.com/244/24461.gif"  />
 </div>
-
-- 🌱 I’m currently learning **Python**
-
-- 💬 Ask me about **React,php,javascript**
-
-- 📫 How to reach me **tcrack3r@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/isuka.cracker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="isuka.cracker" height="30" width="40" /></a>
-</p>
-<img align="right" height="150" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47wkr8jnfqxo27mg0e2jj8yy69qjhduwpn2cg931tg&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
+(https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
