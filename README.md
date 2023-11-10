@@ -7,13 +7,11 @@
 <div align="center">
 </div>
 
-###
-
 <div align="center">
   <img height="195" src="https://giffiles.alphacoders.com/244/24461.gif"  />
 </div>
 
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
