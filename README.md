@@ -6,7 +6,7 @@ Im Fullstack Developer and Cyber Security Researcher who mostly focussed on web 
 You can reach me at 👇
 
 [![HackTheBox:](https://img.shields.io/badge/hackthebox-a3e54a?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/1754253)
-[![Email:](https://img.shields.io/badge/email-38B2AC?style=for-the-badge&logo=gmail&logoColor=black)](https://app.hackthebox.com/users/1754253)
+[![Email:](https://img.shields.io/badge/email-38B2AC?style=for-the-badge&logo=gmail&logoColor=black)](tcrack3r@gmail.com)
 
 My skills in programming👇
 
