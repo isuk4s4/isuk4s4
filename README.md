@@ -1,6 +1,7 @@
-<h1 align="left">Hi, I'm Isuka</h1>
+<h2 align="left">Hi, I'm Isuka</h1>
 <h3 align="left">A Crackhead Developer from Sri Lanka</h3>
 
+Im Fullstack Developer and Cyber Security Researcher who mostly focussed on web development and web exploitation but im aslo trying to put my effort in playing ctf,reverse engineering and MCU likes arduino cuase i can expand my expierince to next level. />.~never return!
 
 <br clear="both">
 
