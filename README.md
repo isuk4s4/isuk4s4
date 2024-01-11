@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Isuk4</h1>
-<h3 align="center">A Crackhead Developer from Sri Lanka</h3>
+<h1 align="left">Hi, I'm Isuka</h1>
+<h3 align="left">A Crackhead Developer from Sri Lanka</h3>
 
 
 <br clear="both">
