@@ -1,7 +1,7 @@
 <h2 align="left">Hi, I'm Isuka</h1>
 <h3 align="left">A Crackhead Developer from Sri Lanka</h3>
 
-I'm Full Stack Developer and Cyber Security Researcher who mostly focused on web development and web exploitation but I'm also trying to put my effort in playing CTF, learn programing languages and MCU likes Arduino cause i can expand my experience  next level.<b>~GGS!</b>
+I'm Full Stack Developer and Cyber Security Researcher who mostly focused on web development and web exploitation but I'm also trying to put my effort in playing CTF, learning programing languages and MCU likes Arduino cause i can expand my experience  next level.<b>~GGS!</b>
 
 You can reach me at 👇
 
