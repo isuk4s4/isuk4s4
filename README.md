@@ -1,14 +1,35 @@
-<h2 align="left">Hi, I'm Isuka</h1>
-<h3 align="left">A Crackhead Developer from Sri Lanka</h3>
+<h2> 😎🤏 Hi, I am Isuka! <img src="https://media.giphy.com/media/3XpvBjjMWtYYIOtOlp/giphy.gif" width="70"></h2>
 
-I'm Full Stack Developer and Cyber Security Researcher who mostly focused on web development and web exploitation but I'm also trying to put my effort in playing CTF, learning programing languages and MCU likes Arduino cause i can expand my experience  next level.<b>~GGS!</b>
+### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=isuk4s4.isuk4s4)
+
+As an Offensive Security Specialist and Technology Enthusiast, I spend my time breaking, building, and learning. I actively engage in web exploitation, network penetration testing, and developing offensive security tools while playing Capture The Flag (CTF) competitions to sharpen my hacking skills. I am always experimenting with new programming languages and diving into hardware hacking with tools like Arduino and Raspberry Pi. Always on the lookout for the next challenge to push my limits! 💡
+
+<ul>
+<li>👨‍🎓 Self-taught cybersecurity enthusiast specializing in web and network penetration testing.</li>
+<li>🇱🇰 From Sri Lanka</li>
+</ul>
 
 You can reach me at 👇
 
+[![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=ghost&logoColor=white)](http://isuk4.com/blog/)
+[![Profile](https://img.shields.io/badge/Website-38B2AC?style=for-the-badge&logo=webdriverio&logoColor=white)](http://isuk4.com)
+[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/isuk4)
+[![Linkedin:](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isuka/)
 [![HackTheBox:](https://img.shields.io/badge/hackthebox-a3e54a?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/1754253)
-[![Email:](https://img.shields.io/badge/email-38B2AC?style=for-the-badge&logo=gmail&logoColor=black)](mailto:tcrack3r@gmail.com)
 
-My skills in programming👇
+<div align="center">
+  
+## <img src="https://media.giphy.com/media/YMwJF1OQAlbnf6HFjd/giphy.gif" width="50" height="45"> Achievements
+| CTF Competitor | Web Exploitation | Network Pentesting | Offensive Security Tool Developer | MCU Hacking (Arduino)  |
+|-----------|------------|------------|---------|---------|
+| Active in CTF challenges on HackTheBox | Expert in web vulnerability exploitation | Skilled in network security assessments | Developer of custom security tools | Experimenting with hardware hacking using Arduino |
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+---
 
+Feel free to share your suggestions, issues, or pull requests 🌍
+
+If you appreciate my work, consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/isuk4" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="120"></a>
+
+</div>
