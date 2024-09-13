@@ -1,4 +1,7 @@
-<h2> 😎🤏 Hi, I am Isuka! </h2>
+Here's a revised version that includes the skills and activities without explicitly labeling them as "achievements":
+
+```html
+<h2> 😎🤏 Hi, I am Isuka! <img src="https://media.giphy.com/media/3XpvBjjMWtYYIOtOlp/giphy.gif" width="70"></h2>
 
 ### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=isuk4s4.isuk4s4)
 
@@ -19,10 +22,12 @@ You can reach me at 👇
 
 <div align="center">
   
-## <img src="https://media.giphy.com/media/YMwJF1OQAlbnf6HFjd/giphy.gif" width="50" height="45"> Achievements
-| CTF Competitor | Web Exploitation | Network Pentesting | Offensive Security Tool Developer | MCU Hacking (Arduino)  |
-|-----------|------------|------------|---------|---------|
-| Active in CTF challenges on HackTheBox | Expert in web vulnerability exploitation | Skilled in network security assessments | Developer of custom security tools | Experimenting with hardware hacking using Arduino |
+## <img src="https://media.giphy.com/media/YMwJF1OQAlbnf6HFjd/giphy.gif" width="50" height="45"> What I Do
+
+- 🛠️ **Breaking and Securing**: Delving into web and network penetration testing to find and fix security gaps.
+- 🧠 **Critical Thinking**: Analyzing complex cybersecurity challenges to identify potential vulnerabilities and develop strategic solutions.
+- 🎯 **Playing to Win**: Competing in Capture The Flag (CTF) challenges to refine my offensive security skills.
+- 🕵️‍♂️ **Building Tools**: Have ability to craft custom tools for offensive security operations
 
 ---
 
@@ -33,3 +38,6 @@ If you appreciate my work, consider buying me a coffee/tea 🥺👉👈
 <a href="https://www.buymeacoffee.com/isuk4" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="120"></a>
 
 </div>
+```
+
+This version maintains the structure and includes the areas of expertise and activities in a way that integrates them naturally into the text, providing a clear and engaging overview of Isuka's skills and focus areas.
