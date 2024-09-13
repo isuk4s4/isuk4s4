@@ -31,11 +31,6 @@ You can reach me at 👇
 
 Feel free to share your suggestions, issues, or pull requests 🌍
 
-If you appreciate my work, consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/isuk4" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="120"></a>
 
 </div>
-```
-
-This version maintains the structure and includes the areas of expertise and activities in a way that integrates them naturally into the text, providing a clear and engaging overview of Isuka's skills and focus areas.
