@@ -3,7 +3,7 @@
 
 ### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=isuk4s4.isuk4s4)
 
-As an Offensive Security Specialist and Technology Enthusiast, I spend my time breaking, building, and learning. I actively engage in web exploitation, network penetration testing, and developing offensive security tools while playing Capture The Flag (CTF) competitions to sharpen my hacking skills. I am always experimenting with new programming languages and diving into hardware hacking with tools like Arduino and Raspberry Pi. Always on the lookout for the next challenge to push my limits! 💡
+As an Offensive Security Specialist and Technology Enthusiast, I spend my time breaking, building, and learning. I actively engage in web exploitation, network penetration testing, and developing offensive security tools while playing Capture The Flag (CTF) competitions to sharpen my hacking skills. I am always experimenting with new programming languages. Always on the lookout for the next challenge to push my limits! 💡
 
 <ul>
 <li>👨‍🎓 Self-taught cybersecurity enthusiast specializing in web and network penetration testing.</li>
