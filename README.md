@@ -1,6 +1,5 @@
-Here's a revised version that includes the skills and activities without explicitly labeling them as "achievements":
 
-<h2> 😎🤏 Hi, I am Isuka! <img src="https://media.giphy.com/media/3XpvBjjMWtYYIOtOlp/giphy.gif" width="70"></h2>
+<h2> 😎🤏 Hi, I am Isuka! </h2>
 
 ### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=isuk4s4.isuk4s4)
 
@@ -19,7 +18,7 @@ You can reach me at 👇
 [![Linkedin:](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isuka/)
 [![HackTheBox:](https://img.shields.io/badge/hackthebox-a3e54a?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/1754253)
 
-<div align="center">
+<div align="left">
   
 ## <img src="https://media.giphy.com/media/YMwJF1OQAlbnf6HFjd/giphy.gif" width="50" height="45"> What I Do
 
