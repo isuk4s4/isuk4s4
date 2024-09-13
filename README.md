@@ -1,6 +1,5 @@
 Here's a revised version that includes the skills and activities without explicitly labeling them as "achievements":
 
-```html
 <h2> 😎🤏 Hi, I am Isuka! <img src="https://media.giphy.com/media/3XpvBjjMWtYYIOtOlp/giphy.gif" width="70"></h2>
 
 ### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=isuk4s4.isuk4s4)
