@@ -12,10 +12,9 @@ As an Offensive Security Specialist and Technology Enthusiast, I spend my time b
 
 You can reach me at 👇
 
+[![Medium](https://img.shields.io/badge/medium-21759B?style=for-the-badge&logo=medium&logoColor=white)](http://medium.com/@isuk4)
 [![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=ghost&logoColor=white)](http://isuk4.com/blog/)
 [![Profile](https://img.shields.io/badge/Website-38B2AC?style=for-the-badge&logo=webdriverio&logoColor=white)](http://isuk4.com)
-[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/isuk4)
-[![Linkedin:](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isuka/)
 [![HackTheBox:](https://img.shields.io/badge/hackthebox-a3e54a?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/1754253)
 
 <div align="left">
